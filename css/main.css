@@ -1,0 +1,49 @@
+.link{
+    padding: 7px 15px;
+    color: black;
+}
+.link:hover{
+    background: #FDDED0;
+}
+.body,html{
+    height: 100px;
+    margin: auto;
+    background-color: #FDDED0
+}   
+.home-body{
+    background: url(../img/bg-nadila.png) no-repeat scroll;
+    background-size: 100% 100%;
+    min-height: 700px;
+    padding-top: 200px;
+}
+.home-b1{
+    padding:30px 0px;
+    background: #333333;
+    font-family: chapaza;
+}
+.home-b2{
+    min-height: 230px;
+    padding: 2px 0px;
+    background: #333333;
+}
+.judul-home{
+     margin-left: 450px;
+    font-family: chapaza;
+    color: #FDDED0;
+    font-size: 30px;
+}
+.judul-col{
+    margin-left: 40px;
+}
+.sub-judul-col{
+    margin-left: 40px;
+}
+.col-pjg{
+    background: #FDDED0;
+}
+.col-nueta{
+    background: #F6C3C2;
+}
+.col-tepe{
+    background: #F6C3C2;
+}
